@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/IMSAnalyzerTool.jar"/>
+	<classpathentry kind="lib" path="dist/lib/sqlite-jdbc-3.18.0.jar"/>
+	<classpathentry kind="lib" path="dist/run1217733496/IMSAnalyzerTool.jar"/>
+	<classpathentry kind="lib" path="dist/run1217733496/lib/sqlite-jdbc-3.18.0.jar"/>
+	<classpathentry kind="lib" path="dist/run157341450/IMSAnalyzerTool.jar"/>
+	<classpathentry kind="lib" path="dist/run157341450/lib/sqlite-jdbc-3.18.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

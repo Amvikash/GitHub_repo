@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/resources/chart_fail.css</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/com/lge/iat/perfindicatorapp/perfindicator/impl/SettingIndicatorPane.java</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/com/lge/iat/perfindicatorapp/perfindicator/impl/mediaindicator/interfaces/IMediaNode.java</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/com/lge/iat/perfindicatorapp/PerformanceIndicatorFrame.java</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/com/lge/iat/db/interfaces/IMSAnalyzerDBManager.java</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/com/lge/iat/perfindicatorapp/perfindicator/interfaces/PerformanceIndicatorFactory.java</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/com/lge/iat/filepicker/IFilePickerDialogListener.java</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/com/lge/iat/perfindicatorapp/perfindicator/impl/mediaindicator/interfaces/MediaRootFactory.java</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/com/lge/iat/db/interfaces/IIMSAnalyzerDBHelper.java</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/com/lge/iat/utils/ImsAnalyzeToolConstants.java</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/com/lge/iat/ImsAnalyzer.java</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/com/lge/iat/perfindicatorapp/perfindicator/impl/mediaindicator/impl/GraphMediaNode.java</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/com/lge/iat/perfindicatorapp/perfindicator/impl/callstateindicator/interfaces/CallStateRootFactory.java</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/com/lge/iat/utils/RTPSession.java</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/com/lge/iat/perfindicatorapp/perfindicator/impl/callstateindicator/impl/CallStateSuccessFailNode.java</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/com/lge/iat/perfindicatorapp/perfindicator/impl/CallStatIndicatorPane.java</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/com/lge/iat/perfindicatorapp/perfindicator/interfaces/IPerformanceIndicatorPane.java</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/com/lge/iat/utils/ContentValues.java</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/com/lge/iat/utils/MediaGraphData.java</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/com/lge/iat/perfindicatorapp/perfindicator/impl/MediaIndicatorPane.java</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/com/lge/iat/utils/IMSTab.java</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/resources/Back_img.jpg</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/com/lge/iat/perfindicatorapp/perfindicator/impl/callstateindicator/impl/CallStatePacketPercLossNode.java</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/com/lge/iat/utils/StringUtils.java</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/com/lge/iat/perfindicatorapp/perfindicator/impl/mediaindicator/impl/INodeChangeListener.java</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/com/lge/iat/perfindicatorapp/perfindicator/impl/callstateindicator/impl/ICallStateNodeChangeListener.java</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/com/lge/iat/perfindicatorapp/perfindicator/impl/mediaindicator/impl/CallMediaNode.java</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/com/lge/iat/perfindicatorapp/perfindicator/impl/mediaindicator/impl/MediaNode.java</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/resources/chart.css</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/com/lge/iat/filepicker/FilePickerDialog.java</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/com/lge/iat/perfindicatorapp/perfindicator/impl/ITabSelectionListener.java</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/com/lge/iat/utils/IDTLog.java</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/com/lge/iat/utils/CallSession.java</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/com/lge/iat/perfindicatorapp/perfindicator/impl/callstateindicator/interfaces/ICallStateNode.java</file>
+            <file>file:/F:/IMS_ANALYSER_CODE/IMSAnalyzerTool/src/com/lge/iat/db/impl/IMSAnalyzerDBHelper.java</file>
+        </group>
+    </open-files>
+</project-private>
